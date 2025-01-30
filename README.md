@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on Html Css projects
-- 📫 Instagram : name_sake_0
+- 📫 Instagram : jolpaan
 
 <!---
 BhriguKD/BhriguKD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
